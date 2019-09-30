@@ -1,5 +1,5 @@
 def longitud(array)
-	array.map { |x| x.legnth}
+	array.map { |x| x.length}
 	
 end
 
